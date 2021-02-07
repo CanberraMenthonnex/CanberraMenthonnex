@@ -1,4 +1,4 @@
-### Helle there ! This my GitHub profil, enjoy :)  👋
+### Helle there ! This is my GitHub profil, enjoy :)  👋
 
 - :label: My current name: Canberra Menthonnex
 - 🔭 I’m currently working on mastering the net 

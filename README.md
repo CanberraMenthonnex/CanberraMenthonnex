@@ -25,4 +25,4 @@
 <hr/>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=canberramenthonnex&layout=compact&hide=hack)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=canberramenthonnex&layout=compact&hide=hack)

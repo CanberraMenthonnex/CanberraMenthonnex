@@ -8,3 +8,7 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/canberramenthonnex/) 
 - :busts_in_silhouette: Status: Student
 - :zap: Fun Fact : My first name is the capital of Australia 
+
+### My languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

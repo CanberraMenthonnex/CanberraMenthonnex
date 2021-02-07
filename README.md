@@ -10,5 +10,6 @@
 - :zap: Fun Fact : My first name is the capital of Australia 
 
 ### My languages
+<hr/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=canberramenthonnex&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

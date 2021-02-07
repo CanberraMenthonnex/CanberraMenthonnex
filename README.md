@@ -1,6 +1,6 @@
-# Hello there ! This is my GitHub profil, enjoy :)  👋
+## Hello there ! This is my GitHub profil, enjoy :)  👋
 
-## I'm a French Student in Web Developement !! 
+### I'm a French Student in Web Developement !! 
 
 - :label: My current name: Canberra Menthonnex
 - 🔭 I’m currently working on mastering the net 

@@ -28,4 +28,5 @@
 <br/>
 <hr/>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=canberramenthonnex&layout=compact&hide=hack&theme=radical)
 

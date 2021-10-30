@@ -2,7 +2,7 @@
 
 ### I'm just a simple developer trying to make my way in the universe ! 
 
-- :label: My current name: Canberra Menthonnex
+- :label: My current name: Canberra
 - 🔭 I’m currently working on mastering the net 
 - 🌱 I’m currently learning React.js and Vue.js
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/canberramenthonnex/) 

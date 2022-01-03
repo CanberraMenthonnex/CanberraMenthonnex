@@ -4,9 +4,9 @@
 
 - :label: My current name: Canberra
 - 🔭 I’m currently working on mastering the net 
-- 🌱 I’m currently learning React.js and Vue.js
+- 🌱 I’m currently learning React.js
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/canberramenthonnex/) 
-- :busts_in_silhouette: Status: Student
+- :busts_in_silhouette: Status: Full Stack dev
 - :zap: Fun Fact : My first name is the capital of Australia 
 
 <hr/>
